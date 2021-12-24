@@ -32,7 +32,7 @@ Ctrl-C interrupts the Christmas :-(
 ```
 
 ## References:
-[F. L. S. Bustamante, terminal-christmas-tree, 2020](https://github.com/chicolucio/terminal-christmas-tree)
-[Python](https://www.python.org/doc/)
+* [F. L. S. Bustamante, terminal-christmas-tree, 2020](https://github.com/chicolucio/terminal-christmas-tree)
+* [Python](https://www.python.org/doc/)
 
 # Feliz Natal!!! A juventude em Data está on!
