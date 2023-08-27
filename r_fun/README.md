@@ -8,5 +8,3 @@
 
 ## Enjoy it:
 * [R](https://github.com/binder-examples/r)
-
-## Feliz Natal!!! A juventude em Data está on!
